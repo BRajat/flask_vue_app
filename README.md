@@ -3,7 +3,6 @@ A simple app with python flask backend and vue.js frontend
 
 [Reference](https://testdriven.io/blog/developing-a-single-page-app-with-flask-and-vuejs/#client_2)
 -----------------------
------------------------
 ### Flask-server 
 
 - running on localhost:5000
